@@ -8,6 +8,19 @@ This repo is a compact ML research toolkit demonstrating:
 - **Privacy**: optional Differential Privacy (DP-SGD) using Opacus
 - **C++**: a small SGD demo implementation
 
+## Example results (sanity run)
+CIFAR-10 (ResNet18, 1 epoch, batch=256): val acc ~0.60
+## Visual: CIFAR-10 predictions 
+Grid of 16 CIFAR-10 test images. Labels are printed in the terminal (pred vs true).
+
+## Results (quick sanity runs)
+- NLP sentiment (toy CSV, 2 epochs): best acc ~1.00 (small dataset)
+- CIFAR-10 (ResNet18, 1 epoch, batch=256): val acc ~0.60
+
+
+![CIFAR-10 predictions](outputs/cv_predictions.png)
+
+
 ## Quickstart
 
 ```bash
