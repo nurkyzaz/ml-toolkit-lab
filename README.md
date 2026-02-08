@@ -18,7 +18,7 @@ Grid of 16 CIFAR-10 test images. Labels are printed in the terminal (pred vs tru
 - CIFAR-10 (ResNet18, 1 epoch, batch=256): val acc ~0.60
 
 
-![CIFAR-10 predictions](outputs/cv_predictions.png)
+![CIFAR-10 predictions](assets/cv_predictions.png)
 
 
 ## Quickstart
